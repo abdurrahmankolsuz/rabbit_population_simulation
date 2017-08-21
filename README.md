@@ -14,5 +14,5 @@ Prametrik değişkenler bir ini dosyasından okunacak. Değişkenler:
 Program kullanıcıdan hangi ayda  olunduğunu alacak ve o aydaki kümes durumunu simule ederek  kümesteki tavşan popülasyonunu ekrana basacak.  Şöyle ki;
    
    
-   > 0 aylık 23 erkek 16 dişi
-   > 1 aylık 14  erkek 8  dişi...
+   > - 0 aylık 23 erkek 16 dişi
+   > - 1 aylık 14  erkek 8  dişi...
